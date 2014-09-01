@@ -1,3 +1,0 @@
-$g_name = "Bobo"
-@i_name = "ShName"
-puts "GoodMorning, #$g_name and #@i_name"
